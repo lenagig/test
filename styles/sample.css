@@ -1,0 +1,28 @@
+.head {
+	color: #00ff00;
+}
+h1 {
+	color: #ff33cc;
+}
+#front {
+    color: #ff0000;
+}
+#back {
+    color: #0000ff;
+}
+main p{
+    font-size: 20px;
+    color: #ff8400;
+}
+header {
+	font-family: serif;
+}
+.section1 {
+    font-size: 20px;
+    line-height: 16px;
+  }
+  .section2 {
+    font-size: 20px;
+    line-height: 1.8;
+  }
+  
